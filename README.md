@@ -46,3 +46,7 @@ The data used in the project is in the files portfolio.json, profile.json and tr
 ## 4. Licensing, Authors, Acknowledgements, etc.
 
 Data for coding project was provided by Udacity.
+
+## 5. Blog Website
+
+A blog has been published in this [site](https://medium.com/@kushadhvaryu/could-we-predict-effective-offers-using-data-generated-by-starbucks-app-users-a4d51bfb804f)
